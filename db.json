@@ -1,0 +1,48 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "name": "Arun C",
+      "gender": "Male",
+      "email": "a@arun.com",
+      "phoneNumber": 7259804436,
+      "dateOfBirth": "06/17/1993",
+      "department": "3",
+      "isActive": true,
+      "photoPath": "assets/images/arun.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Naruto",
+      "gender": "Male",
+      "email": "naruto@arun.com",
+      "phoneNumber": 7259804436,
+      "dateOfBirth": "10/10/1993",
+      "department": "4",
+      "isActive": true,
+      "photoPath": "assets/images/naruto.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Sasuke",
+      "gender": "Male",
+      "email": "Sasuke@arun.com",
+      "phoneNumber": 7259804436,
+      "dateOfBirth": "07/23/1993",
+      "department": "4",
+      "isActive": true,
+      "photoPath": "assets/images/sasuke.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Shikamaru",
+      "gender": "Male",
+      "email": "Shikamaru@arun.com",
+      "phoneNumber": 7259804436,
+      "dateOfBirth": "09/22/1993",
+      "department": "4",
+      "isActive": true,
+      "photoPath": "assets/images/shikamaru.png"
+    }
+  ]
+}
